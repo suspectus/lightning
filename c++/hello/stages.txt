@@ -1,0 +1,7 @@
+C++ compilation stages
+=======================
+
+Pre-Processing	-E 	adds # directive code, adds line markers.
+Compilation		-S creates assembler code.
+Assembler		-c creates object (machine) code.
+Linking				links together all object code, libraries to form executable.	
